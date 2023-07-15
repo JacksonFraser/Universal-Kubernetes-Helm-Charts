@@ -1,0 +1,80 @@
+apiVersion: v1
+entries:
+  argo-cronjob:
+  - apiVersion: v1
+    created: "2023-07-15T19:54:42.927964286+10:00"
+    description: The Universal Argo Cronjob/CronWorkflow Helm Chart
+    digest: 3a11477e67e71a89acfcdf238e9a344ea0f870dae05bacce75fa7f0d5a2ef8c3
+    home: https://github.com/JacksonFraser/Universal-Kubernetes-Helm-Charts
+    keywords:
+    - argo
+    - cronjob
+    - helm
+    name: argo-cronjob
+    sources:
+    - https://github.com/JacksonFraser/Universal-Kubernetes-Helm-Charts/charts/argo-cronjob
+    urls:
+    - argo-cronjob-1.0.0.tgz
+    version: 1.0.0
+  cronjob:
+  - apiVersion: v1
+    created: "2023-07-15T19:54:42.928411634+10:00"
+    description: The Universal Cronjob Helm Chart
+    digest: 9b613e9a8bf74d4de379aa7a7ee7722aaa1ae18fa6c5d1497cdac634937ef42a
+    home: https://github.com/JacksonFraser/Universal-Kubernetes-Helm-Charts
+    keywords:
+    - cronjob
+    - helm
+    name: cronjob
+    sources:
+    - https://github.com/JacksonFraser/Universal-Kubernetes-Helm-Charts/charts/cronjob
+    urls:
+    - cronjob-1.0.0.tgz
+    version: 1.0.0
+  cronjob-multi:
+  - apiVersion: v1
+    created: "2023-07-15T19:54:42.928829794+10:00"
+    description: The Universal Cronjob Multi Helm Chart, to spin up many similar cronjobs
+    digest: 0dcec318368cfbf48a5e2452c4f49228d78ecaab9aa62ad436264c72dbd2eb5d
+    home: https://github.com/JacksonFraser/Universal-Kubernetes-Helm-Charts
+    keywords:
+    - cronjob
+    - cronjob-multi
+    - helm
+    name: cronjob-multi
+    sources:
+    - https://github.com/JacksonFraser/Universal-Kubernetes-Helm-Charts/charts/cronjob-multi
+    urls:
+    - cronjob-multi-1.0.0.tgz
+    version: 1.0.0
+  deployment:
+  - apiVersion: v1
+    created: "2023-07-15T19:54:42.929486949+10:00"
+    description: The Universal Deployment Helm Chart
+    digest: 14424b4bc955bbca5fcd8f1f0b8a744075fe31ed360990e90b6519e9c2588624
+    home: https://github.com/JacksonFraser/Universal-Kubernetes-Helm-Charts
+    keywords:
+    - deployment
+    - helm
+    name: deployment
+    sources:
+    - https://github.com/JacksonFraser/Universal-Kubernetes-Helm-Charts/charts/deployment
+    urls:
+    - deployment-1.0.0.tgz
+    version: 1.0.0
+  statefulset:
+  - apiVersion: v1
+    created: "2023-07-15T19:54:42.930141592+10:00"
+    description: The Universal Statefulset Helm Chart
+    digest: c980a2b772e7314f74115da625303d49d887cc476fb2ff4b7eddcd9081505d8c
+    home: https://github.com/JacksonFraser/Universal-Kubernetes-Helm-Charts
+    keywords:
+    - statefulset
+    - helm
+    name: statefulset
+    sources:
+    - https://github.com/JacksonFraser/Universal-Kubernetes-Helm-Charts/charts/statefulset
+    urls:
+    - statefulset-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-07-15T19:54:42.927167932+10:00"
